@@ -1,0 +1,10 @@
+{ 
+  "/Volumes/initialcatalog/initialschema/initialvolume": [
+      {
+        "filePattern" : "SupplyChainGHGEmissionFactors*.csv",
+        "bronzeTableName": "tbl_brnz_GHGEmissionFactors",
+        "silverTableName": "tbl_slvr_GHGEmissionFactors"
+      }
+    ]
+    
+}

@@ -1,0 +1,41 @@
+
+{
+  "tbl_brnz_GHGEmissionFactors": {
+    "columns" : [
+      {
+        "name": "NAICS_Code",
+        "dataType": "StringType"
+      },
+      {
+        "name": "NAICS_Title",
+        "dataType": "StringType"
+      },
+      {
+        "name": "GHG",
+        "dataType": "StringType"
+      },
+      {
+        "name": "Unit",
+        "dataType": "StringType"
+      },
+      {
+        "name": "Supply_Chain_Emission_Factors_without_Margins",
+        "dataType": "StringType"
+      },
+      {
+        "name": "Margins_of_Supply_Chain_Emission_Factors",
+        "dataType": "StringType"
+      },
+      {
+        "name": "Supply_Chain_Emission_Factors_with_Margins",
+        "dataType": "StringType"
+      },
+      {
+        "name": "Reference_USEEIO_Code",
+        "dataType": "StringType"
+      }
+    ]
+
+  }
+}
+  
